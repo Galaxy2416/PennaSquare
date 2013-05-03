@@ -1,0 +1,10 @@
+#specific files
+cscope.files
+cscope.out
+#files
+*~
+*.swp
+*.txt
+*.o
+
+
